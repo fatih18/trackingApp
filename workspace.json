@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "case": "apps/case",
+    "case-e2e": "apps/case-e2e"
+  }
+}
