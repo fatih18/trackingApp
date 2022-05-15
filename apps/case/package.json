@@ -9,6 +9,17 @@
     "react-native": "*",
     "react-native-config": "*",
     "react-native-svg": "*",
-    "@react-native-async-storage/async-storage": "*"
+    "@react-native-async-storage/async-storage": "*",
+    "react-native-safe-area-context": "*",
+    "@react-navigation/native": "*",
+    "@react-navigation/native-stack": "*",
+    "react-native-screens": "*",
+    "react-native-gesture-handler": "*",
+    "react-native-background-fetch": "*",
+    "react-native-background-geolocation": "*",
+    "react-native-maps": "*",
+    "@rneui/base": "*",
+    "@rneui/themed": "*",
+    "@react-navigation/drawer": "*"
   }
 }
